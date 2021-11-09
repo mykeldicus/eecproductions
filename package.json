@@ -2,7 +2,7 @@
   "name": "eecsite",
   "version": "1.0.0",
   "description": "Eec Productions Website",
-  "main": "Eec.html",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
