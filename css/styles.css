@@ -38,3 +38,29 @@ footer {
 .navbar {
     background-color: #f1e209e0;
 }
+.img {
+    border-radius: 50%;
+}
+.carousel-control-prev, .carousel-control-next {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 25%;
+    border: 1px solid black;
+}
+.carousel-caption {
+   
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+    
+}
+.card, .card-header{
+
+    font-family: "Oswald", sans-serif;
+    
+}
