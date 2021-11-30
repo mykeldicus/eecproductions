@@ -24,13 +24,15 @@
                     <img src="images/eeclogo.jpg" style="border-radius: 20%" alt="Eec Logo" class="img-fluid" />
                 </div>
                 <div class="col">
-                    <h1>Eec! Productions, Inc.</h1>
+                    <span id=eectitle>
+                        <h1>Eec! Productions, Inc.</h1>
+                    </span>
                     <h2>An Entertainment and Client Services Co.</h2>
                 </div>
                 <div class="col col-md-4 col-xl-2 ms-auto">
                     <a class="btn btn-danger
-                    " href="https://FlowandFlairscheduling.as.me/?appointmentType=25718584"
-                        role="button" data-toggle="tooltip" data-placement="bottom" data-html="true"
+                    " href="https://FlowandFlairscheduling.as.me/?appointmentType=25718584" role="button"
+                        data-toggle="tooltip" data-placement="bottom" data-html="true"
                         title="Or call us</br><strong> at 1-917-532-7199</strong>">Schedule and Appointment</a>
                 </div>
             </div>
@@ -47,7 +49,8 @@
                     </li>
                     <li class="nav-item"><a class="nav-link" href="aboutus.html"><i
                                 class="fa fa-info fa-lg"></i>About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-list fa-lg"></i>Sites</a></li>
+                    <li class="nav-item"><a class="nav-link" href="businesses.html"><i class="fa fa-list fa-lg"></i>Businesses</a>
+                    </li>
                     <li class="nav-item"><a class="nav-link" href="contactus.html"><i
                                 class="fa fa-address-card fa-lg"></i>Contact</a></li>
                 </ul>
@@ -57,8 +60,12 @@
     <div class="container">
         <div class="row row-content align-items-center">
             <div class="col-sm-4 order-sm-last col-md-3">
-                <h2 class="text-sm-right">Eec! Productions, Inc. is an international client services and entertainment
-                    company.</h2>
+
+                <h2 class="text-sm-right"><span id=eecmission>Eec! Productions, Inc. is an international client services
+                        and
+                        entertainment
+                        company.</span></h2>
+
             </div>
             <div class="col">
                 <div class="media">
@@ -72,17 +79,19 @@
             </div>
         </div>
 
-        <div class="row row-content d-flex align items-center">
+       <div class="row row-content d-flex align items-center">
             <div class="col-sm-3 col-md-4">
                 <h2 class="text-sm-right">Featured Micro-Business</h2>
             </div>
             <div class="col-sm-4 col-md-3">
                 <h3 class="d-none d-sm-block">Flow and Flair <br />Now in its 10th Year, Spanning 5 States.</h3>
-
+               
             </div>
-            <img class="d-flex mr-3 img-thumbnail" src="images/thumbnail_background option 3.png" alt="Holding Hands"
-                width="300" Height="auto" />
+            <img class="d-flex mr-3 img-thumbnail" src="images/thumbnail_background option 3.png" alt="FlowandFlairlogo"
+            width="300" Height="auto" />
         </div>
+        
+
         <div class="row row-content align-items-center">
             <div class="col-sm-4 order-sm-last col-md-3">
                 <h2 class="text-sm-right">Eec! Productions, Inc. <br /> Highlighted Partners</h2>
@@ -94,7 +103,7 @@
                             <h2 class="mb-0">
                                 <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"
                                     data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Blue Door Films, Los Angeles, California & WOW Films, Dallas, Texas
+                                    <blockquote>Pieces of Us</blockquote>Blue Door Films, Los Angeles, California & WOW Films, Dallas, Texas
                                 </button>
                             </h2>
                         </div>
@@ -192,7 +201,7 @@
                         <ul class="list-unstyled">
                             <li><a href="#">Home</a></li>
                             <li><a href="aboutus.html">About</a></li>
-                            <li><a href="#">Sites</a></li>
+                            <li><a href="businesses.html">Businesses</a></li>
                             <li><a href="contactus.html">Contact</a></li>
                         </ul>
                     </div>
@@ -226,6 +235,7 @@
                 $('[data-toggle="tooltip"]').tooltip()
             })
         </script>
+        <script src="js/index.js"></script>
 </body>
 
 </html>

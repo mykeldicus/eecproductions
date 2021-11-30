@@ -1,0 +1,66 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+h1, h2, h3 {
+    font-family: "Oswald", sans-serif;
+    
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: #503bee;
+}
+
+footer {
+    background-image: linear-gradient(#eb102ddc, white);
+    padding: 20px;
+    
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #f1e209e0, #22dbf3e1, #eb102ddc);
+    color: white;
+    margin: 0;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+    
+}
+.navbar {
+    background-color: #f1e209e0;
+}
+.img {
+    border-radius: 50%;
+}
+.carousel-control-prev, .carousel-control-next {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    
+    border: 1px solid black;
+}
+.carousel-caption {
+   
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    
+    border: 1px solid black;
+    
+}
+.card, .card-header{
+
+    font-family: "Oswald", sans-serif;
+    
+}
