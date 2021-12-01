@@ -25,6 +25,7 @@ header {
     h2 {
         color: $header-primary;
     }
+    
 }
 
 footer {
@@ -73,5 +74,8 @@ footer {
 .card, .card-header{
 
     font-family: $header-font;
+   
+        color: $h2-primary
+    }
     
 }
