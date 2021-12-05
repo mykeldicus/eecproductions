@@ -16,8 +16,7 @@ footer {
 
 .jumbotron {
   padding: 30px;
-  background-image: linear-gradient(to right, #f1e209e0, #22dbf3e1, #eb102ddc);
-  color: white;
+  
   margin: 0; }
 
 .row-content {
@@ -35,13 +34,13 @@ footer {
   height: 50px;
   width: 50px;
   outline: black;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.1);
   background-size: 100%, 100%;
   border: 1px solid black; }
 
 .carousel-caption {
   outline: black;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.1);
   background-size: 100%, 100%;
   border: 1px solid black; }
 
@@ -100,3 +99,4 @@ p {
 		font-size: 120%;
 	}
 }
+
