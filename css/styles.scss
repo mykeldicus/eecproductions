@@ -56,19 +56,19 @@ footer {
 .carousel-control-prev, .carousel-control-next {
     height: 50px;
     width: 50px;
-    outline: black;
+    outline: $navbar-primary;
     background-color: rgba(0, 0, 0, 0.3);
     background-size: 100%, 100%;
     
-    border: 1px solid black;
+    border: 1px solid $navbar-primary;
 }
 .carousel-caption {
    
-    outline: black;
-    background-color: rgba(0, 0, 0, 0.3);
+    outline: $navbar-primary;
+    background-color: $navbar-primary;
     background-size: 100%, 100%;
     
-    border: 1px solid black;
+    border: 1px solid $navbar-primary;
     
 }
 .card, .card-header{
@@ -78,4 +78,3 @@ footer {
         color: $h2-primary
     }
     
-}

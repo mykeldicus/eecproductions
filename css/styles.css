@@ -26,7 +26,7 @@ footer {
   min-height: 200px; }
 
 .navbar {
-  background-color: #f1e209e0; }
+  background-color: white; }
 
 .img {
   border-radius: 50%; }
@@ -68,12 +68,7 @@ html, body {
 	vertical-align: middle;
 	text-align: center;
 }
-h1 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 700%;
-	line-height: .9;
-	color: white;
-}
+
 h3 {
 	font-size: 260%;
 	font-weight: 500;
