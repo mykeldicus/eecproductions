@@ -1,7 +1,7 @@
 {
   "name": "eecsite",
   "version": "1.0.0",
-  "description": "Eec Productions Website",
+  "description": "Eec! Landing Page",
   "main": "landingpage.html",
   "scripts": {
     "lite": "lite-server",

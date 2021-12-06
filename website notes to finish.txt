@@ -1,14 +1,11 @@
 Eec site notes to finish-
-Jumbotron- white header, not grey?
-Landing
-center menu items
-fix color to match toggle button
-home page
+
 css styling on accordion
-bring over about us mission
-and get rid of about us page
+
 Businesses
 resize images
+
+finish adding press content
 add js to play videos of each project?
-Contact Us
-leave alone
+
+fix scss to css connection
