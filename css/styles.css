@@ -11,7 +11,7 @@ header h2 {
   color: #503bee; }
 
 footer {
-  background-image: linear-gradient(#eb102ddc, white);
+  background-image: linear-gradient(#eb102ddc, rgb(236, 214, 8));
   padding: 20px; }
 
 .jumbotron {
@@ -69,7 +69,7 @@ html, body {
 }
 
 h3 {
-	font-size: 260%;
+	font-size: 240%;
 	font-weight: 500;
 	line-height: 1.2;
 	color: black;

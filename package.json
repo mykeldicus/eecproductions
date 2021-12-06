@@ -2,7 +2,7 @@
   "name": "eecsite",
   "version": "1.0.0",
   "description": "Eec Productions Website",
-  "main": "index.html",
+  "main": "landingpage.html",
   "scripts": {
     "lite": "lite-server",
     "scss": "node-sass -o css/ css/",
