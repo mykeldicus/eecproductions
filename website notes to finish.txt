@@ -1,6 +1,6 @@
 Eec site notes to finish-
 
-css styling on accordion
+landing page not loading in npm start
 
 Businesses
 resize images
