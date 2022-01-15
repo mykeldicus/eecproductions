@@ -53,10 +53,10 @@ html, body {
 	height: 100%;
 	width: 100%;
 	font-family: sans-serif;
-	color: #FFF;
+	color: black;
 }
 #home {
-	background: url(sand-mountain.jpegg) no-repeat 50% 50%;
+	
 	display: table;
 	height: 100%;
 	width: 100%;
